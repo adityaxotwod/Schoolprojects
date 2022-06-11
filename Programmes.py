@@ -1,4 +1,3 @@
-#PYTHON XII--A DISHITA ADITYA W.
 print("List of programs:")
 print("01. to input a no. and check whether the no. is >100 or not")
 print("02. to input a no. and check if it is -ve or +ve")
